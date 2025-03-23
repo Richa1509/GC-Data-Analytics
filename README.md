@@ -1,5 +1,4 @@
-# GC-Data-Analytics-MT
-# GC Data Analytics Case Study  
+# GC Data Analytics 
 
 This repository contains the data analytics project conducted for ElectroMart, an e-commerce firm based in Ontario, Canada. The project focuses on analyzing marketing spending, revenue impact, and budget optimization for the next year using data-driven insights.
 
